@@ -10,12 +10,12 @@ Enveloppe Arthur est une application de gestion de budget par **enveloppes virtu
 
 | 📱 Android | 🖥️ Windows |
 |---|---|
-| **[Télécharger l’application Android (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.5.10-beta.1/Enveloppe-Arthur-v0.5.10-beta.apk)** | **[Télécharger la version Windows (ZIP)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/windows-preview-v0.3/Enveloppe-Arthur-Windows-v0.3-Setup.exe)** |
+| **[Télécharger l’application Android (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.5.10-beta.1/Enveloppe-Arthur-v0.5.10-beta.apk)** | **[Installer Enveloppe Arthur sur Windows (EXE)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/windows-preview-v0.3/Enveloppe-Arthur-Windows-v0.3-Setup.exe)** |
 | Application mobile avec gestion complète du budget | Version d’aperçu pour PC avec gestion locale et consultation du budget sauvegardé sur le cloud |
 
 ➡️ **[Voir tous les téléchargements et les nouvelles versions](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases)**
 
-> Les versions actuellement proposées sont des **bêtas / aperçus** : des améliorations et corrections peuvent encore arriver. La version Windows nécessite **.NET Desktop Runtime 8**.
+> Les versions actuellement proposées sont des **bêtas / aperçus** : des améliorations et corrections peuvent encore arriver. L’installateur Windows contient les composants .NET nécessaires et ne demande pas d’installation séparée.
 
 ## 🧩 Comment fonctionne le système d’enveloppes ?
 
@@ -69,9 +69,9 @@ La version PC propose actuellement une **première interface de gestion locale**
 
 ### Pour commencer sur Windows
 
-1. Téléchargez le **ZIP Windows** depuis le lien ci-dessus.
-2. Décompressez le fichier dans un dossier de votre choix.
-3. Lancez **`EnveloppeArthur.Windows.exe`**.
+1. Téléchargez l’**installateur Windows (.exe)** depuis le lien ci-dessus.
+2. Lancez le programme d’installation et suivez les étapes affichées.
+3. Ouvrez **Enveloppe Arthur** depuis le menu Démarrer ou son raccourci sur le Bureau.
 4. Pour consulter une sauvegarde Android, connectez-vous avec le même compte cloud et cliquez sur **« Voir la sauvegarde Android »**.
 
 > **Important :** les enveloppes créées localement dans la version Windows ne sont pas encore synchronisées automatiquement vers Android.
