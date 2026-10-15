@@ -1,0 +1,17 @@
+﻿name: Build automatique sur le PC
+on:
+  push:
+  workflow_dispatch:
+jobs:
+  local-build:
+    runs-on: windows-native
+    steps:
+      - uses: actions/checkout@v4
+      - name: DÃ©tection, tests et compilation
+        shell: powershell
+        run: G:\DevServer\builder\run-build-isolated.ps1 -Project 'enveloppe-arthur-apk' -GitHubRepository 'bobcatfr63/enveloppe-arthur-apk'
+      - uses: actions/upload-artifact@v4
+        with:
+          name: enveloppe-arthur-apk-${{ github.sha }}
+          path: local-output/*
+          if-no-files-found: ignore
