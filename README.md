@@ -10,7 +10,7 @@ Enveloppe Arthur est une application de gestion de budget par **enveloppes virtu
 
 | 📱 Android | 🖥️ Windows |
 |---|---|
-| **[Télécharger l’application Android (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.5.10-beta.1/Enveloppe-Arthur-v0.5.10-beta.apk)** | **[Télécharger la version Windows (ZIP)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/windows-preview-v0.3/Enveloppe-Arthur-Windows-preview-v0.3.zip)** |
+| **[Télécharger l’application Android (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.5.10-beta.1/Enveloppe-Arthur-v0.5.10-beta.apk)** | **[Télécharger la version Windows (ZIP)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/windows-preview-v0.3/Enveloppe-Arthur-Windows-v0.3-Setup.exe)** |
 | Application mobile avec gestion complète du budget | Version d’aperçu pour PC avec gestion locale et consultation du budget sauvegardé sur le cloud |
 
 ➡️ **[Voir tous les téléchargements et les nouvelles versions](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases)**
