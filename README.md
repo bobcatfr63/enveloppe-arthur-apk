@@ -10,7 +10,7 @@ Enveloppe Arthur est une application de gestion de budget par **enveloppes virtu
 
 | 📱 Android | 🖥️ Windows |
 |---|---|
-| **[Télécharger l’application Android (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.5.10-beta.1/Enveloppe-Arthur-v0.5.10-beta.apk)** | **[Installer Enveloppe Arthur sur Windows (EXE)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/windows-preview-v0.3/Enveloppe-Arthur-Windows-v0.3-Setup.exe)** |
+| **[Télécharger l’application Android (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.5.11-beta.1/Enveloppe-Arthur-v0.5.11-beta.apk)** | **[Installer Enveloppe Arthur sur Windows (EXE)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/windows-preview-v0.4/Enveloppe-Arthur-Windows-v0.4-Setup.exe)** |
 | Application mobile avec gestion complète du budget | Version d’aperçu pour PC avec gestion locale et consultation du budget sauvegardé sur le cloud |
 
 ➡️ **[Voir tous les téléchargements et les nouvelles versions](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases)**
@@ -41,6 +41,7 @@ La version Android est la plus complète à ce jour.
 
 - **Créer ses enveloppes** : partir de zéro ou choisir parmi **22 modèles courants** (courses, maison, enfants, loisirs, carburant, etc.).
 - **Personnaliser ses catégories** : renommer une enveloppe ou la retirer de l’affichage tout en conservant son historique.
+- **Affichage en mosaïque** : retrouver ses enveloppes sous forme de cartes et naviguer entre Budget, Épargne du mois et Épargne à long terme.
 - **Ajouter ses revenus et ses dépenses** : enregistrer les mouvements et consulter les opérations du mois.
 - **Organiser son salaire** : répartir son budget entre les enveloppes, avec une proposition automatique basée sur ses objectifs.
 - **Anticiper les charges fixes** : réserver des montants pour les dépenses récurrentes.
@@ -61,7 +62,7 @@ La version Android est la plus complète à ce jour.
 
 La version PC propose actuellement une **première interface de gestion locale** :
 
-- afficher ses enveloppes sur un écran plus grand ;
+- afficher ses enveloppes en mosaïque sur un écran plus grand, avec des onglets dédiés au budget et aux deux types d’épargne ;
 - créer des enveloppes et saisir des montants dans la version Windows ;
 - importer ou exporter des données locales au format JSON ;
 - se connecter à son compte cloud ;
