@@ -1,112 +1,83 @@
-# 💶 Enveloppe Arthur
+# 💶 Enveloppe Arthur — Votre budget, simplement
 
-**Une façon simple de savoir où va votre argent, d’anticiper vos dépenses et de maîtriser votre budget.**
+**Enveloppe Arthur** est une application **Android** qui vous aide à organiser vos dépenses et à mettre de côté pour vos projets. Un fonctionnement simple : créez des enveloppes virtuelles, attribuez-leur un budget et suivez vos achats au fil du mois.
 
-Enveloppe Arthur est une application de gestion de budget par **enveloppes virtuelles**, disponible sur **Android** et en **aperçu sur Windows**. Chaque enveloppe représente un poste de dépenses : courses, carburant, vacances, loisirs, imprévus…
+Aucune connexion à un compte bancaire n'est nécessaire : vous gardez le contrôle de ce que vous enregistrez.
 
-**Pas besoin de manipuler de l’argent liquide :** vous répartissez virtuellement votre budget pour visualiser ce qu’il vous reste.
+## 📱 Télécharger Enveloppe Arthur
 
-## 📥 Télécharger l’application
+### **[📥 Télécharger Enveloppe Arthur 0.6.0 bêta (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.6.0-beta.1/Enveloppe-Arthur-v0.6.0-beta.apk)**
 
-| 📱 Android | 🖥️ Windows |
-|---|---|
-| **[Télécharger l’application Android (APK)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/v0.5.13-beta.1/Enveloppe-Arthur-v0.5.13-beta.apk)** | **[Installer Enveloppe Arthur sur Windows (EXE)](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases/download/windows-preview-v0.4/Enveloppe-Arthur-Windows-v0.4-Setup.exe)** |
-| Application mobile avec gestion complète du budget | Version d’aperçu pour PC avec gestion locale et consultation du budget sauvegardé sur le cloud |
+**[Voir les versions et mises à jour](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases)**
 
-➡️ **[Voir tous les téléchargements et les nouvelles versions](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases)**
+> Version bêta pour Android. L'installation d'un fichier APK peut demander d'autoriser les installations depuis votre navigateur ou votre gestionnaire de fichiers.
 
-> Les versions actuellement proposées sont des **bêtas / aperçus** : des améliorations et corrections peuvent encore arriver. L’installateur Windows contient les composants .NET nécessaires et ne demande pas d’installation séparée.
+## 🏠 Un tableau de bord clair
 
-## 🧩 Comment fonctionne le système d’enveloppes ?
+L'accueil rassemble les informations les plus utiles :
 
-Imaginez que vous ayez **1 800 €** à organiser ce mois-ci. Vous pouvez par exemple prévoir :
+- Revenus et dépenses enregistrés pendant le mois ;
+- Montant qui reste à répartir entre vos enveloppes ;
+- Épargne disponible à court terme et épargne accumulée à long terme ;
+- Raccourcis vers les mouvements, l'automatisation et les transferts.
 
-| Enveloppe | Montant prévu |
-|---|---:|
-| 🛒 Courses | 350 € |
-| 🚗 Carburant | 150 € |
-| 🎉 Loisirs | 100 € |
-| 🏖️ Vacances | 100 € |
-| 💰 Épargne | 150 € |
+Les montants affichés correspondent aux opérations saisies : **ce n'est pas une connexion ni une lecture automatique de votre banque**.
 
-Ces montants sont **des exemples à personnaliser** : Enveloppe Arthur ne déplace pas votre argent entre vos comptes bancaires.
+## 🧩 Des enveloppes en mosaïque
 
-Quand vous faites une dépense de **45 €** pour les courses, vous l’enregistrez dans l’enveloppe « Courses ». L’application vous indique alors qu’il reste **305 €** sur cette enveloppe.
+Chaque enveloppe correspond à un objectif ou à une catégorie : courses, carburant, loisirs, vacances, imprévus…
 
-Vous visualisez ainsi rapidement vos dépenses, sans devoir refaire vos calculs.
+Vous pouvez créer des enveloppes, les renommer, suivre leur budget et consulter leur historique. Elles sont affichées sous forme de **cartes en mosaïque**, avec le montant disponible et les dépenses du mois.
 
-## 📱 Enveloppe Arthur sur Android
+### Trois espaces pour mieux s'organiser
 
-La version Android est la plus complète à ce jour.
+| Budget courant | Épargne du mois | Épargne à long terme |
+|---|---|---|
+| Courses, carburant, loisirs | Achats et projets proches | Vacances, projets futurs, réserve |
+| Suivre les dépenses du mois | Voir les montants affectés ce mois | Accumuler les montants non utilisés |
 
-- **Créer ses enveloppes** : partir de zéro ou choisir parmi **22 modèles courants** (courses, maison, enfants, loisirs, carburant, etc.).
-- **Personnaliser ses catégories** : renommer une enveloppe ou la retirer de l’affichage tout en conservant son historique.
-- **Affichage en mosaïque** : retrouver ses enveloppes sous forme de cartes et naviguer entre Budget, Épargne du mois et Épargne à long terme.
-- **Ajouter ses revenus et ses dépenses** : enregistrer les mouvements et consulter les opérations du mois.
-- **Organiser son salaire** : répartir son budget entre les enveloppes, avec une proposition automatique basée sur ses objectifs.
-- **Anticiper les charges fixes** : réserver des montants pour les dépenses récurrentes.
-- **Gérer les transferts** : déplacer un montant prévu d’une enveloppe vers une autre.
-- **Suivre son budget** : visualiser les soldes, les reports d’un mois à l’autre et des statistiques.
-- **Sauvegarder ses données** : exporter une sauvegarde locale ou lancer une sauvegarde cloud depuis un compte Supabase.
+Vous pouvez **déplacer une enveloppe d'un espace à l'autre sans perdre son historique**.
 
-### Pour commencer sur Android
+## 💸 Transférer de l'argent entre enveloppes
 
-1. Téléchargez le fichier **APK** depuis le lien ci-dessus.
-2. Ouvrez-le sur votre téléphone et autorisez l’installation depuis cette source si Android le demande.
-3. Lancez **Enveloppe Arthur** et créez vos premières enveloppes, ou sélectionnez les modèles prédéfinis.
-4. Ajoutez votre revenu, répartissez votre budget et enregistrez vos dépenses au quotidien.
+Vous avez 30 € de disponibles dans « Loisirs », mais souhaitez les réserver pour « Vacances » ?
 
-**Astuce :** commencez avec seulement quelques enveloppes (courses, transport, loisirs et imprévus), puis ajoutez-en selon vos besoins.
+Utilisez **Transférer entre enveloppes**. Le montant quitte une enveloppe et arrive dans l'autre **sans être compté comme une nouvelle dépense**.
 
-## 🖥️ Enveloppe Arthur sur Windows
+Ces transferts sont des mouvements **virtuels dans votre budget** : ils ne déplacent pas d'argent sur votre compte bancaire.
 
-La version PC propose actuellement une **première interface de gestion locale** :
+## 🔁 Revenus et dépenses récurrents
 
-- afficher ses enveloppes en mosaïque sur un écran plus grand, avec des onglets dédiés au budget et aux deux types d’épargne ;
-- créer des enveloppes et saisir des montants dans la version Windows ;
-- importer ou exporter des données locales au format JSON ;
-- se connecter à son compte cloud ;
-- **consulter en lecture seule** les enveloppes et montants d’une sauvegarde Android présente sur Supabase.
+Pour éviter de ressaisir les mêmes opérations chaque mois, vous pouvez programmer :
 
-### Pour commencer sur Windows
+- Un revenu mensuel, comme un salaire ;
+- Une dépense régulière rattachée à une enveloppe ;
+- Le montant, le libellé et **le jour du mois** de l'échéance.
 
-1. Téléchargez l’**installateur Windows (.exe)** depuis le lien ci-dessus.
-2. Lancez le programme d’installation et suivez les étapes affichées.
-3. Ouvrez **Enveloppe Arthur** depuis le menu Démarrer ou son raccourci sur le Bureau.
-4. Pour consulter une sauvegarde Android, connectez-vous avec le même compte cloud et cliquez sur **« Voir la sauvegarde Android »**.
+L'application enregistre une échéance arrivée à terme **au maximum une fois par mois** lorsque vous ouvrez l'application et que le mois concerné est traité. Une échéance future n'est pas enregistrée à l'avance. Les règles peuvent être mises en pause puis réactivées.
 
-> **Important :** les enveloppes créées localement dans la version Windows ne sont pas encore synchronisées automatiquement vers Android.
+**Attention :** les *charges fixes réservées* sont des prévisions de budget, distinctes des opérations réellement enregistrées. Évitez de compter deux fois la même facture.
 
-## ☁️ Utiliser Android et Windows ensemble
+## 🎯 Objectifs, reports et statistiques
 
-Enveloppe Arthur propose un compte cloud pour **conserver une sauvegarde du budget Android** et la **consulter depuis Windows**.
+Vous pouvez définir des objectifs par enveloppe, répartir votre salaire selon vos priorités, consulter les statistiques et reporter les sommes non utilisées d'un mois sur l'autre.
 
-Sur Android : ouvrez **Outils et réglages → Compte et synchronisation**, connectez-vous et choisissez **« Sauvegarder toutes mes données dans le cloud »**.
+## 🔒 Données et sauvegardes
 
-Sur Windows : connectez-vous avec **le même compte**, puis cliquez sur **« Voir la sauvegarde Android »** pour afficher les enveloppes et les totaux de cette sauvegarde.
+Les données budgétaires sont conservées **localement sur votre téléphone**. Une fonction permet d'**exporter et de restaurer une sauvegarde**.
 
-**À savoir :** cette sauvegarde et cette consultation sont **manuelles**. La modification simultanée du même budget sur Android et Windows et la synchronisation automatique dans les deux sens **ne sont pas encore disponibles**. Ne supprimez pas vos données originales après une sauvegarde cloud.
+Avant de changer de téléphone ou de réinstaller l'application, conservez votre fichier de sauvegarde dans un endroit sûr.
 
-## ❓ Questions fréquentes
+## 🚀 Commencer en quelques étapes
 
-**Faut-il connecter son compte bancaire ?**  
-Non. Vous saisissez les revenus et les dépenses dans l’application. Aucun accès bancaire n’est nécessaire.
+1. Téléchargez l'APK Android et installez-le.
+2. Ouvrez Enveloppe Arthur et choisissez votre mois.
+3. Créez quelques enveloppes ou utilisez les modèles proposés.
+4. Ajoutez vos revenus et attribuez des budgets.
+5. Enregistrez vos dépenses ; programmez vos opérations régulières si nécessaire.
 
-**Peut-on modifier les enveloppes proposées ?**  
-Oui. Les modèles servent de point de départ. Vous choisissez ceux qui vous intéressent et pouvez ensuite les renommer ou les masquer.
-
-**Faut-il obligatoirement un compte cloud ?**  
-Non pour utiliser le budget local sur Android. Le compte cloud est nécessaire pour les fonctions liées à Supabase.
-
-**L’application est-elle gratuite ?**  
-Les téléchargements proposés ici sont accessibles gratuitement. Le projet utilise des versions de test et ne promet pas encore une synchronisation complète.
-
-**Comment obtenir les nouveautés ?**  
-Consultez la page **[Releases](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases)**. La version Android peut également proposer une mise à jour lorsqu’une version plus récente est détectée.
-
-**Une question ou un bug à signaler ?**  
-Vous pouvez ouvrir un **[ticket GitHub](https://github.com/bobcatfr63/enveloppe-arthur-apk/issues)** si cette fonctionnalité est disponible.
+**Une question ou un problème ?** Consultez les [versions publiées](https://github.com/bobcatfr63/enveloppe-arthur-apk/releases) pour obtenir la dernière application.
 
 ---
 
-**Enveloppe Arthur — un budget plus clair, une enveloppe à la fois.** 💙
+*Enveloppe Arthur — un budget plus clair, une enveloppe à la fois.* 💙
